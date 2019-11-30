@@ -1,1 +1,1 @@
-Disord scripts
+Discord scripts
